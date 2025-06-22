@@ -1,6 +1,6 @@
 # Olá, Seja Bem-Vindo(a)
 
-#### Liga Acadêmica de Robótica Aplicada da Faci Wyden - LARAF foi criada em 2016, na Faculdade Faci Wyden, localizada em Belém - PA - Brasil. Com o intuito de desenvolver atividades fora e dentro da instituição nas áreas de Sistemas Embarcados, Internet das Coisas (IoT) e Automação. Formado pelos professores e estudantes dos cursos de TI (Análise e Desenvolvimento de Sistemas, Ciência da Computação e Sistemas da Informação).
+#### Liga Acadêmica de Robótica Aplicada da Faci Wyden - LARAF criada em 2016, na Faculdade Faci Wyden, localizada em Belém - PA - Brasil. Com o intuito de desenvolver atividades fora e dentro da instituição nas áreas de Sistemas Embarcados, Internet das Coisas (IoT) e Automação. Formado pelos professores e estudantes dos cursos de TI (Análise e Desenvolvimento de Sistemas, Ciência da Computação e Sistemas da Informação).
 
 ## 🖥️Linguagens e Tecnologias:
 
